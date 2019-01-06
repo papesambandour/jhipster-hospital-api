@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "hospitalApi",
+    "packageName": "diti5.com",
+    "packageFolder": "diti5/com",
+    "serverPort": 88,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "ZjYyNmMzYjJiZmZhMGUzZjU2YjU0YWFiODNhZDJlZmI1YjU1ZGM1MjdlY2ZmZTg0YzZjMDZkNmU1NDY2YzM0OWFjZjNmMmE2NDhkZGUzMWVjODUyMjhhZTQ4NzM5N2JjMGZmYTI1YmMwNTk1NzdlZTgyMDM5NWFjM2Q2NDZhMmQ=",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "papesambandour",
+  "repository-name": "jhipster-hospital-api"
+}
